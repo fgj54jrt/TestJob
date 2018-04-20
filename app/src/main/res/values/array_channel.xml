@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_name">
+        <item>CITY_GUIDE</item>
+        <item>SHOP</item>
+        <item>EAT</item>
+    </string-array>
+
+    <string-array name="channel_id">
+        <!--定死不能更改的三个频道ID-->
+        <item>0123</item>
+        <item>1234</item>
+        <item>2345</item>
+    </string-array>
+</resources>
