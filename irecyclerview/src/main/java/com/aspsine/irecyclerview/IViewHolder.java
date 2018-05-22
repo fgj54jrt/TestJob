@@ -12,6 +12,7 @@ public abstract class IViewHolder extends RecyclerView.ViewHolder {
         super(itemView);
     }
 
+
     @Deprecated
     public final int getIPosition() {
         return getPosition() - 2;

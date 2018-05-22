@@ -10,4 +10,5 @@ public class AppConstant {
     public static final String CHANNEL_CHANGED="CHANNEL_CHANGED";
     public static final String NEWS_ID="CHANNEL_CHANGED";//频道id
     public static String NEWS_LIST_TO_TOP = "NEWS_LIST_TO_TOP";//列表返回顶部
+    public static final String NEWS_ID1="CHANNEL_CHANGED1";//频道id
 }
